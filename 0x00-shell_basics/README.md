@@ -1,1 +1,1 @@
-this script list all the files in the directory separated by a comma
+this script create the directory welcome/ welcome to/ and welcome to school.
