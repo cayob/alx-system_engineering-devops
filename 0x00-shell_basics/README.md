@@ -1,4 +1,1 @@
-This script print working directory
-This script list files
-This script change directory to home
-This script list files in long format
+this scrit list all files both hidden ones in a long format
