@@ -1,1 +1,1 @@
-this script is to create a directory.
+this script is to move a file to a directory.
