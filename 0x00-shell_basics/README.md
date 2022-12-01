@@ -1,1 +1,1 @@
-this script is to move a file to a directory.
+this id to remove file
