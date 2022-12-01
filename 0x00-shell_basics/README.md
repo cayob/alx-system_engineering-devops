@@ -1,1 +1,1 @@
-command that is use to detect school data filesl
+this script list all the files in the directory separated by a comma
